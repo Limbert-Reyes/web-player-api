@@ -1,7 +1,7 @@
 {
-  "name": "curso-mean2",
+  "name": "web-player-api",
   "version": "1.0.0",
-  "description": "Proyecto de API Rest con NodeJS para el curso de Víctor Robles",
+  "description": "API Rest Project using NodeJS",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
